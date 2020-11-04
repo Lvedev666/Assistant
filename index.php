@@ -1,7 +1,7 @@
 <?php
    $text = $_POST["text"];
-   if($text === "Apa kabar?"){
-      $text_a = "Baik baik saja";
+   if($text === "Halo dunia!"){
+      $text_a = "Halo juga!";
    }
 ?>
 <!DOCTYPE html>
