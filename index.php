@@ -17,5 +17,6 @@
       <input type="text" name="text" id="text" placeholder="Masukkan Teks...">
       <input type="submit" value="submit">
    </form>
+   <?php echo text_a; ?>
 </body>
 </html>
