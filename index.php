@@ -1,3 +1,9 @@
+<?php
+   $text = $_POST["text"];
+   if($text === "Apa kabar?"){
+      $text_a = "Baik baik saja";
+   }
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
